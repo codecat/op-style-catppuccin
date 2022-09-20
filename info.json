@@ -31,22 +31,22 @@
 			"styles": [
 				{
 					"description": "Red Macchiato Catppuccin style.",
-					"name": "Red",
+					"name": "\\$e89\\$z Red",
 					"style": "Catppuccin - Macchiato Red.toml"
 				},
 				{
 					"description": "Green Macchiato Catppuccin style.",
-					"name": "Green",
+					"name": "\\$ad9\\$z Green",
 					"style": "Catppuccin - Macchiato Green.toml"
 				},
 				{
 					"description": "Blue Macchiato Catppuccin style.",
-					"name": "Blue",
+					"name": "\\$8af\\$z Blue",
 					"style": "Catppuccin - Macchiato Blue.toml"
 				},
 				{
 					"description": "Yellow Macchiato Catppuccin style.",
-					"name": "Yellow",
+					"name": "\\$ed9\\$z Yellow",
 					"style": "Catppuccin - Macchiato Yellow.toml"
 				}
 			]
@@ -57,22 +57,22 @@
 			"styles": [
 				{
 					"description": "Red Mocha Catppuccin style.",
-					"name": "Red",
+					"name": "\\$f8a\\$z Red",
 					"style": "Catppuccin - Mocha Red.toml"
 				},
 				{
 					"description": "Green Mocha Catppuccin style.",
-					"name": "Green",
+					"name": "\\$aea\\$z Green",
 					"style": "Catppuccin - Mocha Green.toml"
 				},
 				{
 					"description": "Blue Mocha Catppuccin style.",
-					"name": "Blue",
+					"name": "\\$8bf\\$z Blue",
 					"style": "Catppuccin - Mocha Blue.toml"
 				},
 				{
 					"description": "Yellow Mocha Catppuccin style.",
-					"name": "Yellow",
+					"name": "\\$fea\\$z Yellow",
 					"style": "Catppuccin - Mocha Yellow.toml"
 				}
 			]
@@ -83,22 +83,22 @@
 			"styles": [
 				{
 					"description": "Red Latte Catppuccin style.",
-					"name": "Latte Red",
+					"name": "\\$d03\\$z Latte Red",
 					"style": "Catppuccin - Latte Red.toml"
 				},
 				{
 					"description": "Green Latte Catppuccin style.",
-					"name": "Latte Green",
+					"name": "\\$4a2\\$z Latte Green",
 					"style": "Catppuccin - Latte Green.toml"
 				},
 				{
 					"description": "Blue Latte Catppuccin style.",
-					"name": "Latte Blue",
+					"name": "\\$16f\\$z Latte Blue",
 					"style": "Catppuccin - Latte Blue.toml"
 				},
 				{
 					"description": "Yellow Latte Catppuccin style.",
-					"name": "Latte Yellow",
+					"name": "\\$d81\\$z Latte Yellow",
 					"style": "Catppuccin - Latte Yellow.toml"
 				}
 			]
