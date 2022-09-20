@@ -1,87 +1,107 @@
 {
 	"styles": [
 		{
-			"description": "Red Frappe Catppuccin style.",
-			"name": "Frappe Red",
-			"style": "Catppuccin - Frappe Red.toml"
-		},
-		{
-			"description": "Green Frappe Catppuccin style.",
-			"name": "Frappe Green",
-			"style": "Catppuccin - Frappe Green.toml"
-		},
-		{
-			"description": "Blue Frappe Catppuccin style.",
-			"name": "Frappe Blue",
-			"style": "Catppuccin - Frappe Blue.toml"
-		},
-		{
-			"description": "Yellow Frappe Catppuccin style.",
-			"name": "Frappe Yellow",
-			"style": "Catppuccin - Frappe Yellow.toml"
-		},
-
-		{
-			"description": "Red Macchiato Catppuccin style.",
-			"name": "Macchiato Red",
-			"style": "Catppuccin - Macchiato Red.toml"
-		},
-		{
-			"description": "Green Macchiato Catppuccin style.",
-			"name": "Macchiato Green",
-			"style": "Catppuccin - Macchiato Green.toml"
-		},
-		{
-			"description": "Blue Macchiato Catppuccin style.",
-			"name": "Macchiato Blue",
-			"style": "Catppuccin - Macchiato Blue.toml"
-		},
-		{
-			"description": "Yellow Macchiato Catppuccin style.",
-			"name": "Macchiato Yellow",
-			"style": "Catppuccin - Macchiato Yellow.toml"
+			"name": "Frappe",
+			"styles": [
+				{
+					"description": "Red Frappe Catppuccin style.",
+					"name": "Red",
+					"style": "Catppuccin - Frappe Red.toml"
+				},
+				{
+					"description": "Green Frappe Catppuccin style.",
+					"name": "Green",
+					"style": "Catppuccin - Frappe Green.toml"
+				},
+				{
+					"description": "Blue Frappe Catppuccin style.",
+					"name": "Blue",
+					"style": "Catppuccin - Frappe Blue.toml"
+				},
+				{
+					"description": "Yellow Frappe Catppuccin style.",
+					"name": "Yellow",
+					"style": "Catppuccin - Frappe Yellow.toml"
+				}
+			]
 		},
 
 		{
-			"description": "Red Mocha Catppuccin style.",
-			"name": "Mocha Red",
-			"style": "Catppuccin - Mocha Red.toml"
-		},
-		{
-			"description": "Green Mocha Catppuccin style.",
-			"name": "Mocha Green",
-			"style": "Catppuccin - Mocha Green.toml"
-		},
-		{
-			"description": "Blue Mocha Catppuccin style.",
-			"name": "Mocha Blue",
-			"style": "Catppuccin - Mocha Blue.toml"
-		},
-		{
-			"description": "Yellow Mocha Catppuccin style.",
-			"name": "Mocha Yellow",
-			"style": "Catppuccin - Mocha Yellow.toml"
+			"name": "Macchiato",
+			"styles": [
+				{
+					"description": "Red Macchiato Catppuccin style.",
+					"name": "Red",
+					"style": "Catppuccin - Macchiato Red.toml"
+				},
+				{
+					"description": "Green Macchiato Catppuccin style.",
+					"name": "Green",
+					"style": "Catppuccin - Macchiato Green.toml"
+				},
+				{
+					"description": "Blue Macchiato Catppuccin style.",
+					"name": "Blue",
+					"style": "Catppuccin - Macchiato Blue.toml"
+				},
+				{
+					"description": "Yellow Macchiato Catppuccin style.",
+					"name": "Yellow",
+					"style": "Catppuccin - Macchiato Yellow.toml"
+				}
+			]
 		},
 
 		{
-			"description": "Red Latte Catppuccin style.",
-			"name": "Latte Red",
-			"style": "Catppuccin - Latte Red.toml"
+			"name": "Mocha",
+			"styles": [
+				{
+					"description": "Red Mocha Catppuccin style.",
+					"name": "Red",
+					"style": "Catppuccin - Mocha Red.toml"
+				},
+				{
+					"description": "Green Mocha Catppuccin style.",
+					"name": "Green",
+					"style": "Catppuccin - Mocha Green.toml"
+				},
+				{
+					"description": "Blue Mocha Catppuccin style.",
+					"name": "Blue",
+					"style": "Catppuccin - Mocha Blue.toml"
+				},
+				{
+					"description": "Yellow Mocha Catppuccin style.",
+					"name": "Yellow",
+					"style": "Catppuccin - Mocha Yellow.toml"
+				}
+			]
 		},
+
 		{
-			"description": "Green Latte Catppuccin style.",
-			"name": "Latte Green",
-			"style": "Catppuccin - Latte Green.toml"
-		},
-		{
-			"description": "Blue Latte Catppuccin style.",
-			"name": "Latte Blue",
-			"style": "Catppuccin - Latte Blue.toml"
-		},
-		{
-			"description": "Yellow Latte Catppuccin style.",
-			"name": "Latte Yellow",
-			"style": "Catppuccin - Latte Yellow.toml"
+			"name": "Latte",
+			"styles": [
+				{
+					"description": "Red Latte Catppuccin style.",
+					"name": "Latte Red",
+					"style": "Catppuccin - Latte Red.toml"
+				},
+				{
+					"description": "Green Latte Catppuccin style.",
+					"name": "Latte Green",
+					"style": "Catppuccin - Latte Green.toml"
+				},
+				{
+					"description": "Blue Latte Catppuccin style.",
+					"name": "Latte Blue",
+					"style": "Catppuccin - Latte Blue.toml"
+				},
+				{
+					"description": "Yellow Latte Catppuccin style.",
+					"name": "Latte Yellow",
+					"style": "Catppuccin - Latte Yellow.toml"
+				}
+			]
 		}
 	]
 }
