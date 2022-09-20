@@ -1,0 +1,87 @@
+[Style]
+WindowRounding = 5
+ScrollbarSize = 12
+ScrollbarRounding = 2
+FramePadding = [ 8, 5 ]
+
+[Colors]
+# rosewater: #dc8a78
+# flamingo: #dd7878
+# pink: #ea76cb
+# mauve: #8839ef
+# red: #d20f39
+# maroon: #e64553
+# peach: #fe640b
+# yellow: #df8e1d
+# green: #40a02b
+# teal: #179299
+# sky: #04a5e5
+# sapphire: #209fb5
+
+# blue: #1e66f5
+CheckMark = "#1e66f5"
+SliderGrab = "#1e66f5"
+SliderGrabActive = "#1e66f5"
+SeparatorHovered = "#1e66f5"
+SeparatorActive = "#1e66f5"
+ResizeGripHovered = "#1e66f5a7"
+ResizeGripActive = "#1e66f5ed"
+TabHovered = "#1e66f5af"
+TabActive = "#1e66f5af"
+PlotLines = "#1e66f57f"
+PlotLinesHovered = "#1e66f5"
+PlotHistogram = "#1e66f57f"
+PlotHistogramHovered = "#1e66f5"
+TableBorderStrong = "#1e66f510"
+TableBorderLight = "#1e66f509"
+TableRowBgAlt = "#1e66f530"
+TableHeaderBg = "#1e66f5af"
+TextSelectedBg = "#1e66f5af"
+
+# lavender: #7287fd
+
+# text: #4c4f69
+Text = "#4c4f69"
+
+# subtext1: #5c5f77
+
+# subtext0: #6c6f85
+TextDisabled = "#6c6f85"
+
+# overlay2: #7c7f93
+
+# overlay1: #8c8fa1
+ScrollbarGrabActive = "#8c8fa1"
+
+# overlay0: #9ca0b0
+ScrollbarGrabHovered = "#9ca0b0"
+
+# surface2: #acb0be
+ScrollbarGrab = "#acb0be"
+
+# surface1: #bcc0cc
+ButtonHovered = "#bcc0cc"
+Separator = "#bcc0cc"
+
+# surface0: #ccd0da
+TitleBg = "#ccd0da"
+TitleBgActive = "#ccd0da"
+FrameBgActive = "#ccd0da"
+Button = "#ccd0da"
+HeaderHovered = "#ccd0da"
+Tab = "#ccd0da"
+
+# base: #eff1f5
+WindowBg = "#eff1f5fe"
+PopupBg = "#eff1f5fe"
+
+# mantle: #e6e9ef
+Border = "#e6e9ef"
+FrameBgHovered = "#e6e9ef"
+ButtonActive = "#e6e9ef"
+Header = "#e6e9ef"
+MenuBarBg = "#e6e9ef"
+
+# crust: #dce0e8
+FrameBg = "#dce0e8"
+HeaderActive = "#dce0e8"

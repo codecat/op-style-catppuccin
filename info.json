@@ -1,0 +1,103 @@
+{
+	"styles": [
+		{
+			"author": "Miss",
+			"description": "Red Frappe Catppuccin style.",
+			"name": "Frappe Red",
+			"style": "Catppuccin - Frappe Red.toml"
+		},
+		{
+			"author": "Miss",
+			"description": "Green Frappe Catppuccin style.",
+			"name": "Frappe Green",
+			"style": "Catppuccin - Frappe Green.toml"
+		},
+		{
+			"author": "Miss",
+			"description": "Blue Frappe Catppuccin style.",
+			"name": "Frappe Blue",
+			"style": "Catppuccin - Frappe Blue.toml"
+		},
+		{
+			"author": "Miss",
+			"description": "Yellow Frappe Catppuccin style.",
+			"name": "Frappe Yellow",
+			"style": "Catppuccin - Frappe Yellow.toml"
+		},
+
+		{
+			"author": "Miss",
+			"description": "Red Macchiato Catppuccin style.",
+			"name": "Macchiato Red",
+			"style": "Catppuccin - Macchiato Red.toml"
+		},
+		{
+			"author": "Miss",
+			"description": "Green Macchiato Catppuccin style.",
+			"name": "Macchiato Green",
+			"style": "Catppuccin - Macchiato Green.toml"
+		},
+		{
+			"author": "Miss",
+			"description": "Blue Macchiato Catppuccin style.",
+			"name": "Macchiato Blue",
+			"style": "Catppuccin - Macchiato Blue.toml"
+		},
+		{
+			"author": "Miss",
+			"description": "Yellow Macchiato Catppuccin style.",
+			"name": "Macchiato Yellow",
+			"style": "Catppuccin - Macchiato Yellow.toml"
+		},
+
+		{
+			"author": "Miss",
+			"description": "Red Mocha Catppuccin style.",
+			"name": "Mocha Red",
+			"style": "Catppuccin - Mocha Red.toml"
+		},
+		{
+			"author": "Miss",
+			"description": "Green Mocha Catppuccin style.",
+			"name": "Mocha Green",
+			"style": "Catppuccin - Mocha Green.toml"
+		},
+		{
+			"author": "Miss",
+			"description": "Blue Mocha Catppuccin style.",
+			"name": "Mocha Blue",
+			"style": "Catppuccin - Mocha Blue.toml"
+		},
+		{
+			"author": "Miss",
+			"description": "Yellow Mocha Catppuccin style.",
+			"name": "Mocha Yellow",
+			"style": "Catppuccin - Mocha Yellow.toml"
+		},
+
+		{
+			"author": "Miss",
+			"description": "Red Latte Catppuccin style.",
+			"name": "Latte Red",
+			"style": "Catppuccin - Latte Red.toml"
+		},
+		{
+			"author": "Miss",
+			"description": "Green Latte Catppuccin style.",
+			"name": "Latte Green",
+			"style": "Catppuccin - Latte Green.toml"
+		},
+		{
+			"author": "Miss",
+			"description": "Blue Latte Catppuccin style.",
+			"name": "Latte Blue",
+			"style": "Catppuccin - Latte Blue.toml"
+		},
+		{
+			"author": "Miss",
+			"description": "Yellow Latte Catppuccin style.",
+			"name": "Latte Yellow",
+			"style": "Catppuccin - Latte Yellow.toml"
+		}
+	]
+}
