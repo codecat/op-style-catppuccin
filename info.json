@@ -5,22 +5,22 @@
 			"styles": [
 				{
 					"description": "Red Frappe Catppuccin style.",
-					"name": "Red",
+					"name": "\\$e88\\$z Red",
 					"style": "Catppuccin - Frappe Red.toml"
 				},
 				{
 					"description": "Green Frappe Catppuccin style.",
-					"name": "Green",
+					"name": "\\$ad8\\$z Green",
 					"style": "Catppuccin - Frappe Green.toml"
 				},
 				{
 					"description": "Blue Frappe Catppuccin style.",
-					"name": "Blue",
+					"name": "\\$8ae\\$z Blue",
 					"style": "Catppuccin - Frappe Blue.toml"
 				},
 				{
 					"description": "Yellow Frappe Catppuccin style.",
-					"name": "Yellow",
+					"name": "\\$ec9\\$z  Yellow",
 					"style": "Catppuccin - Frappe Yellow.toml"
 				}
 			]
